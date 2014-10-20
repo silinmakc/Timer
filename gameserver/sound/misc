@@ -1,0 +1,11 @@
+/* add sound for LJ Stats, cuz idk how to do this on GitHub. : ]
+
+new String:LJ_SOUND[5][256] = 
+{
+	{"misc/impressive.wav"},
+	{"misc/perfect.wav"},
+	{"misc/mod_wickedsick.wav"},
+	{"misc/mod_godlike.wav"},
+	{"misc/holyshit.wav"}
+};
+*/
